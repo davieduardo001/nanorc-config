@@ -1,0 +1,25 @@
+#line numbers
+set linenumbers
+
+#ident
+set autoindent
+
+#remove help
+set nohelp
+
+#if it ident it will continue with ident
+set nonewlines
+
+#set tab size to ...
+set tabsize 2
+
+#enable mouse
+set mouse
+
+#colors:
+set numbercolor yellow
+set functioncolor yellow
+set titlecolor yellow
+set keycolor cyan
+set errorcolor red
+set statuscolor yellow 
